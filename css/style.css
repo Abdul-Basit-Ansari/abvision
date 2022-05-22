@@ -1,0 +1,35 @@
+*{
+	margin:0%;
+	padding: 0%;
+}
+body{
+	background-color: #202020;
+}
+
+
+
+.nav-links a{
+	text-decoration: none;
+	
+	color: rgb(27, 27, 27);
+
+}
+
+.circle{
+	/* background-color: burlywood; */
+	background-image: url(../img/ailogo.jpg);
+	color: black;
+	display: inline-block;
+	border:.9vw double #202020;
+	border-radius: 50%;
+	width: 15vw;
+	margin: 3vw 0vw 1vh 6.3vw;
+	text-align: center;
+	padding-top: 2vw;
+	font-size: 2vw;
+	height: 13vw;
+}
+.circle a{
+	color: aqua;
+	text-decoration: none;
+}
